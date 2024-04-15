@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+<<<<<<< HEAD
   return (
     <div className="App">
       <header className="App-header">
@@ -23,3 +24,8 @@ function App() {
 }
 
 export default App;
+=======
+  return;
+}
+export default App
+>>>>>>> ac7ff4f (Initialize project using Create React App)

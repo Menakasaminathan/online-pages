@@ -3,11 +3,19 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
+=======
+import Landing from './Components/Landing';
+>>>>>>> ac7ff4f (Initialize project using Create React App)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+<<<<<<< HEAD
+=======
+    <Landing/>
+>>>>>>> ac7ff4f (Initialize project using Create React App)
   </React.StrictMode>
 );
 

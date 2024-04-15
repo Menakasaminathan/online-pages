@@ -1,3 +1,38 @@
+<<<<<<< HEAD
+=======
+/* @import "./assets/css/vendors/font-awesome.css";    
+@import "./assets/css/vendors/icofont.css";    
+@import "./assets/css/vendors/themify.css";    
+@import "./assets/css/vendors/flag-icon.css";    
+@import "./assets/css/vendors/scrollbar.css";    
+@import "./assets/css/vendors/photoswipe.css";     */
+/* @import "./assets/css/vendors/bootstrap.css";    
+@import "./assets/css/style.css";     
+@import "./assets/css/color-1.css";    
+@import "./assets/css/responsive.css";     */
+
+
+    
+    /* <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/font-awesome.css">
+    <!-- ico-font-->
+    <!-- <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/icofont.css"> -->
+    <!-- Themify icon-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/themify.css">
+    <!-- Flag icon-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/flag-icon.css">
+    <!-- Feather icon-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/feather-icon.css">
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/scrollbar.css">
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/photoswipe.css">
+    <!-- Bootstrap css-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/vendors/bootstrap.css">
+    <!-- App css-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/style.css">
+    <link id="color" rel="stylesheet" href="%PUBLIC_URL%/assets/css/color-1.css" media="screen">
+    <!-- Responsive css-->
+    <link rel="stylesheet" type="text/css" href="%PUBLIC_URL%/assets/css/responsive.css"> */
+
+>>>>>>> ac7ff4f (Initialize project using Create React App)
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
